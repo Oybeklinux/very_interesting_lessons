@@ -27,7 +27,7 @@ Dasutrni ishga tushirishdan avval quyidagi buyruqlarni bajaring
 git clone https://github.com/Murtaza-Saeed/dlib
 cd dlib
 pip install cmake
-pip install .\dlib-19.22.99-cp310-cp310-win_amd64.whl
+pip install .\dlib-19.24.1-cp311-cp311-win_amd64.whl
 pip install face_recognition
 pip install opencv-python
 ```
