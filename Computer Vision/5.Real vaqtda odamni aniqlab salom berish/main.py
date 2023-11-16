@@ -25,8 +25,8 @@ def identify_faces(frame):
             # playsound(os.path.join(audios_path, f'{name}.mp3'))
 
 
-# cap = cv2.VideoCapture('http://192.168.32.183:8080/video')
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture('http://192.168.32.183:8080/video')
+# cap = cv2.VideoCapture(0)
 
 # mixerni sozlash
 pygame.mixer.init()

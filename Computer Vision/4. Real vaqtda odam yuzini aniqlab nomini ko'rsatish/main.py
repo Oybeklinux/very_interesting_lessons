@@ -18,8 +18,8 @@ def identify_faces(frame):
         cv2.putText(frame, name, (right + 20, top), cv2.FONT_HERSHEY_SIMPLEX, 1, (255, 255, 255), 2)
 
 
-# cap = cv2.VideoCapture('http://192.168.32.183:8080/video')
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture('http://192.168.32.183:8080/video')
+# cap = cv2.VideoCapture(0)
 # images katalogi yo'lini yasab oladi
 current_dir = os.getcwd()
 images_path = os.path.join(current_dir, "images")
