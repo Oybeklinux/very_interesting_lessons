@@ -20,4 +20,25 @@
 
 [git](https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/Git-2.42.0.2-64-bit.exe)
 
+Dasutrni ishga tushirishdan avval quyidagi buyruqlarni bajaring
 
+**Computer vision**
+```commandline
+git clone https://github.com/Murtaza-Saeed/dlib
+cd dlib
+pip install cmake
+pip install .\dlib-19.22.99-cp310-cp310-win_amd64.whl
+pip install face_recognition
+pip install opencv-python
+```
+**Send SMS**
+
+```commandline
+pip install requests
+```
+
+**ChatGPT**
+
+```commandline
+pip install openai
+```
