@@ -3,8 +3,8 @@ Prezentatsiyalar:
 [SMS jo'natish](https://www.canva.com/design/DAFzQShpARw/5QiJwPLXAZIsX4Clb5cdoA/edit?utm_content=DAFzQShpARw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 Maqolalar:
-[SMS jo'natish](https://www.canva.com/design/DAFzQShpARw/5QiJwPLXAZIsX4Clb5cdoA/edit?utm_content=DAFzQShpARw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[SMS jo'natish](https://telegra.ph/Pythonda-SMS-jonatish-10-29)
 [Telefondan xavfsizlik kamerasi sifatida foydalanish](https://telegra.ph/IP-Webcamni-Pythonda-OpenCV-bilan-ishlatish-10-31)
-[eal vaqtda ma'lum shaxslar yuzlarini aniqlash (face recognition)](eal vaqtda ma'lum shaxslar yuzlarini aniqlash (face recognition))
+[eal vaqtda ma'lum shaxslar yuzlarini aniqlash (face recognition)](https://telegra.ph/Real-vaqtda-yuzlarni-yan-olish-11-02)
 
 
