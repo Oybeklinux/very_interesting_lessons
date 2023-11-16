@@ -40,6 +40,11 @@ Orientir: INHA universiteti
 
 Kontaktlar:
 Tel: +998 55-515-99-00
+
+Telegram bot: @NextGenAcademy_bot
+
+Telegram | Instagram | Veb-sahifa
+ngen.uz
 """
 phone1 = '998974251244'
 phone2 = '998931676044'
