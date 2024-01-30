@@ -12,6 +12,7 @@ while True:
     # 1 ms kutadi, shu oraliqda foydalanuvchi biron
     # tugmani bossa, uni kodini qaytaradi
     key = cv2.waitKey(1)
+    print(key)
     # Agar foydalanuvchi Esc ni bosgan bo'lsa, while tsiklidan chiqib ket
     if key == 27:
         break

@@ -1,7 +1,7 @@
 import cv2
 
 # kameradan o'qish
-cap = cv2.VideoCapture('http://192.168.32.183:8080/video')
+cap = cv2.VideoCapture(0)
 
 while True:
     # ret - True - agar rasm(frame) mavjud bo'lsa, aks holda False
