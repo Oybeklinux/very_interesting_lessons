@@ -3,7 +3,7 @@ from openai import OpenAI
 # Kalitni olish: https://platform.openai.com/api-keys
 # OpenAI API mijoz kalitini sozlash
 #
-client = OpenAI(api_key="API kalitingizni shu yerga qo'ying")
+client = OpenAI(api_key="OPENAI_API_KEY=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")
 
 # Model va so'rovni sozlash
 prompt = "My name is Oybek"

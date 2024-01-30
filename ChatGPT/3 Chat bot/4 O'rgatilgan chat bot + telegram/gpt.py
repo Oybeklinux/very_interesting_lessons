@@ -12,7 +12,7 @@ from langchain_community.vectorstores import FAISS
 from langchain_openai import OpenAIEmbeddings
 
 # API kalit
-os.environ["OPENAI_API_KEY"] = "Sizning kalitingiz"
+os.environ["OPENAI_API_KEY"] = "OPENAI_API_KEY=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"
 
 # docs file yo'li
 docx_files = ['fayllar/flutter.docx', 'fayllar/js.docx', 'fayllar/python.docx', "fayllar/savol_javob.docx"]

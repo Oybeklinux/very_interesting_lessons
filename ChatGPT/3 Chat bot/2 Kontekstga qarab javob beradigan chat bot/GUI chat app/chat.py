@@ -71,7 +71,7 @@ class ChatApp(App):
         self.send_system_message(message)
 
     def get_chatGPT_message(self, prompt):
-        client = OpenAI(api_key="API kalitingizni shu yerga qo'ying")
+        client = OpenAI(api_key="OPENAI_API_KEY=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")
         self.messages.append({"role": "user", "content": prompt})
         completion = client.chat.completions.create(
             model="gpt-3.5-turbo",

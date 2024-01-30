@@ -5,7 +5,7 @@ from langchain_community.vectorstores import FAISS
 from langchain_openai import OpenAIEmbeddings
 
 # API kalit
-os.environ["OPENAI_API_KEY"] = "Sizning kalitingiz"
+os.environ["OPENAI_API_KEY"] = "OPENAI_API_KEY=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"
 
 # pdf file yo'li
 reader = PdfReader('fayllar/Kitob. Scratch uz.pdf')
