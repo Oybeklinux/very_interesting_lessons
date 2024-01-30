@@ -1,6 +1,6 @@
 import telebot
-
-bot = telebot.TeleBot("6927785010:AAGDZytTd-2JixpU5SxSxNTciX1JkTQlroI")
+# 6927785010:AAGDZytTd-2JixpU5SxSxNTciX1JkTQlroI
+bot = telebot.TeleBot("Sizning telegram tokeningiz")
 
 @bot.message_handler(commands=['start', 'help'])
 def send_welcome(message):
